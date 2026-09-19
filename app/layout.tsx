@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   description: 'Created with v0',
   verification: {
     google: "rmH0LmpLKup2YRRXBB_Le9j71W8BphbNecqRRPDnZDU",
+    other: {
+      "yandex-verification": "6313a9d00d372d9f",
+    },
   },
   generator: 'v0.app',
   icons: {
