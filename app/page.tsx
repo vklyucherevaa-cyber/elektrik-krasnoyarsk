@@ -586,7 +586,7 @@ export default function Page() {
             <h1 className="reveal reveal-delay-1 mt-7 max-w-4xl text-5xl font-extrabold leading-[0.97] tracking-[-0.04em] text-slate-950 sm:text-6xl lg:text-8xl">
               Электрика,
               <span className="block">которая работает,</span>
-              а не искрит
+        
             </h1>
 
             <p className="reveal reveal-delay-2 mt-7 max-w-2xl text-lg leading-8 text-slate-500 sm:text-xl">
