@@ -5,6 +5,9 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'v0 App',
   description: 'Created with v0',
+  verification: {
+    google: "rmH0LmpLKup2YRRXBB_Le9j71W8BphbNecqRRPDnZDU",
+  },
   generator: 'v0.app',
   icons: {
     icon: [
